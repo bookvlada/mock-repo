@@ -1,4 +1,4 @@
-#Hi Kottans!
+<h2 align="center">Hi Kottans!
 Happy to learn with us!
 
 
